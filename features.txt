@@ -1,0 +1,6 @@
+🚀 Features
+✔️ Uses a real-world dataset from the automotive industry 🚗
+✔️ Implements a deep learning regression model with TensorFlow & Keras 🔥
+✔️ Preprocesses data with feature scaling & one-hot encoding
+✔️ Provides visualizations for actual vs predicted MPG 📊
+✔️ Achieves high prediction accuracy with minimal training
