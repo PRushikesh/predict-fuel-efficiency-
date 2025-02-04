@@ -1,0 +1,6 @@
+👨‍💻 Technologies Used
+🔹 TensorFlow 2.0+ – Deep Learning Framework
+🔹 Keras – High-Level API for Neural Networks
+🔹 Pandas & NumPy – Data Handling & Preprocessing
+🔹 Matplotlib & Seaborn – Data Visualization
+🔹 Scikit-Learn – Data Preprocessing & Model Evaluation
