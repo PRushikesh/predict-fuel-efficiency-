@@ -1,0 +1,6 @@
+📌 Project Overview
+This project builds a Fuel Efficiency Prediction Model using TensorFlow and Keras. The model is trained on the Auto MPG dataset, which contains various car attributes (e.g., engine displacement, weight, horsepower) to predict Miles Per Gallon (MPG).
+
+🔹 Machine Learning Type: Regression
+🔹 Algorithm Used: Deep Neural Network
+🔹 Dataset Source: UCI Auto MPG Dataset
